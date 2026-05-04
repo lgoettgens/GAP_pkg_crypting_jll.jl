@@ -1,0 +1,86 @@
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "adef47a65ea2508e8c01fb7475972b1d936aa537"
+os = "macos"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "eb390b1198ce95b6e67a55839806070adc0e3815ff7e5265a3ab3bb631ed44bb"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "9efa0c4f2a54c87a33616d2874562250fb8ba0fa"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "7ff7604225e6704aaea6377037999a9642b56badf3ada12046cb6fc84d094940"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "3e0b0cfceea904efb4801a6a24940c632994aec7"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "ca1c6f18f36d112f7460174d85e34d6abfb16231c0f9b52ac36e2b005d81b0b6"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "a152da3af429e0f28184a3e9250d03e028f436c6"
+os = "freebsd"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "593afa32de5c5556f96c2cf05c6749c1d8de845c4da738c49b2572d66759baf6"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "powerpc64le"
+git-tree-sha1 = "368765abc266713385b72d7f81ddee4e870b03f6"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "d4f6ba36e2ab6289cdf4f5d0b978b46b053e4c1a5415c57256d02b32991e5256"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "riscv64"
+git-tree-sha1 = "844eb4974c7875e95b7e5660023f911a9874d4cf"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "f0095e33af09ee5fe401be48babdedcbac8bc7caca0ebdc0db4dc9e82912c260"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "9e47a174954d427d6d9472af14c20399c0f64852"
+os = "macos"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "6112dd7ed4b213abbf14db58c86850b268740fdb70c656365f966729571fd14e"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "8127947c7c064882348bfa53cbe1748079f3fa53"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "65febe998497b023432623424a78a59559527afce42c620a99256f0670344b63"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "4b792daec5b363744288ce6d322cacab245bff79"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "cafee54bd5a6f635f9e9c9d3f3781cbc3dc36ecadfa422d7bd98eb68121f06d4"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "2f1a638f2117b1aacf691bdc46d07531c90e9c16"
+os = "freebsd"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "f3e1cc0541531f83bf80bda41d6aca03f3a38d3ab72cc0b0cae026477944582d"
+    url = "https://github.com/lgoettgens/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v1.100600.1+0/GAP_pkg_crypting.v1.100600.1.x86_64-unknown-freebsd.tar.gz"
